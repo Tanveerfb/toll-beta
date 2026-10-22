@@ -29,13 +29,37 @@ To update, download the newest zip and replace the old `Toll.exe`.
 No powerful graphics card is needed: the game is 2D. If it closes at once or shows a graphics
 error, update your graphics drivers first, then tell us your laptop or graphics card model.
 
-## Reporting a bug
+## Signing in
 
-Open an **[Issue](../../issues)** with what you did, what happened, and a screenshot if you
-can. The game's log helps too: `%APPDATA%\Godot\app_userdata\Toll\logs\godot.log` (paste that
-path into the File Explorer address bar).
+Create an account with your email, or sign in with Google (the game opens a browser tab;
+finish there and come back). You can also play as a guest; nothing is saved online then.
+
+If signing in says **"A secure connection was blocked"**, your antivirus is scanning secure
+connections (Avast's Web Shield does this). In Avast: **Menu → Settings → General → Exceptions
+→ Add exception**, add `https://*.googleapis.com/*` and the path to your `Toll.exe`.
+
+## Reporting a bug or an idea
+
+Press **F1** anywhere in the game: pick BUG, SUGGESTION or REQUEST, write what happened, and
+send. It brings along the screen, the version and the end of the game's log, so we can find
+the problem. You can also open an **[Issue](../../issues)** here.
+
+## Privacy
+
+What Toll keeps:
+
+- **Your account:** your email address (and your Google name, if you sign in with Google),
+  kept by Firebase, Google's service, so you can sign in.
+- **Your player name**, so other players see it and no one else can take it.
+- **Your save:** your settings now; your characters and progress later.
+- **Reports** you send with F1: your words, the screen, the game's version, the time, the end
+  of the game's log, and a fight's seed.
+
+Nothing is sold or shared. No ads, no tracking. **Settings → DELETE ACCOUNT** removes your
+account, your save and your name at once. Reports you already sent are kept to fix the game;
+open an Issue here to have them removed.
 
 ## What is in the beta
 
-The menus, the character files, and practice fights (Duke vs Lyra, and a 3+1 team fight).
-Accounts and saving are not in yet; they come in a later build.
+Sign-in and player names, the menus, every character's file (all twelve are yours in the
+beta), practice fights (Duke vs Lyra, and a 3+1 team fight), settings, and the F1 report form.
