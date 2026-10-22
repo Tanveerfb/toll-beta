@@ -40,6 +40,11 @@ If signing in says **"A secure connection was blocked"**, your antivirus is scan
 connections (Avast's Web Shield does this). In Avast: **Menu → Settings → General → Exceptions
 → Add exception**, add `https://*.googleapis.com/*` and the path to your `Toll.exe`.
 
+## Discord
+
+Patch notes, known issues and the beta chat live on the **Toll: Element Clash** server:
+**https://discord.gg/b2XK2Tc2WF**
+
 ## Reporting a bug or an idea
 
 Press **F1** anywhere in the game: pick BUG, SUGGESTION or REQUEST, write what happened, and
