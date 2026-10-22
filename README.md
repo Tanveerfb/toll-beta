@@ -32,10 +32,9 @@ error, update your graphics drivers first, then tell us your laptop or graphics 
 
 ## Signing in
 
-Create an account with your email to keep your save, or play as a guest (nothing is saved
-online then). Sign in with Google is there too (the game opens a browser tab; finish there and
-come back); while the beta is new it may only work for invited testers, so use email if it
-refuses you.
+Create an account with your email or sign in with Google to keep your save (for Google the
+game opens a browser tab; finish there and come back). Or play as a guest: nothing is saved
+online then.
 
 If signing in says **"A secure connection was blocked"**, your antivirus is scanning secure
 connections (Avast's Web Shield does this). In Avast: **Menu → Settings → General → Exceptions
