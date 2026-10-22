@@ -1,7 +1,8 @@
 # Toll — beta builds
 
-Toll is a turn-based card battler in the Element Clash universe. This private repository holds
-only the game's Windows builds for beta testers; there is no source code here.
+Toll is a turn-based card battler in the Element Clash universe. This repository holds only
+the game's Windows builds for beta testers; there is no source code here. Anyone with the link
+can download them.
 
 ## Download and play
 
@@ -31,8 +32,10 @@ error, update your graphics drivers first, then tell us your laptop or graphics 
 
 ## Signing in
 
-Create an account with your email, or sign in with Google (the game opens a browser tab;
-finish there and come back). You can also play as a guest; nothing is saved online then.
+Create an account with your email to keep your save, or play as a guest (nothing is saved
+online then). Sign in with Google is there too (the game opens a browser tab; finish there and
+come back); while the beta is new it may only work for invited testers, so use email if it
+refuses you.
 
 If signing in says **"A secure connection was blocked"**, your antivirus is scanning secure
 connections (Avast's Web Shield does this). In Avast: **Menu → Settings → General → Exceptions
