@@ -70,3 +70,5 @@ open an Issue here to have them removed.
 
 Sign-in and player names, the menus, every character's file (all twelve are yours in the
 beta), practice fights (Duke vs Lyra, and a 3+1 team fight), settings, and the F1 report form.
+Since 0.2.0: character levels and the six-level ultimate ladder (everyone starts at level 1,
+UL1; earning levels comes later), your roster saved to your account, and tags on every file.
