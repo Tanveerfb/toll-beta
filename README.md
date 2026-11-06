@@ -30,7 +30,7 @@ exception**, and add the folder you unzipped Toll into.
 | CPU | 64-bit Intel or AMD with SSE4.2 (roughly 2012 or newer) |
 | Graphics | Vulkan support: Intel HD Graphics 500 series or newer, NVIDIA GeForce 600 series or newer, AMD Radeon HD 7000 series or newer, with current drivers |
 | Memory | 4 GB RAM |
-| Storage | 1 GB free (the game takes about 300 MB; an update needs room for a while) |
+| Storage | 1 GB free (the game takes about 350 MB; an update needs room for a while) |
 | Display | 1280 x 720 or larger (the window scales) |
 
 No powerful graphics card is needed: the game is 2D. If it closes at once or shows a graphics
@@ -66,7 +66,7 @@ What Toll keeps:
   kept by Firebase, Google's service, so you can sign in.
 - **Your player name**, so other players see it and no one else can take it.
 - **Your save:** your settings, your characters and their levels, your gold, bag, mail and
-  teams.
+  teams, and your story progress.
 - **Reports** you send with F1: your words, the screen, the game's version, the time, the end
   of the game's log, and a fight's seed.
 
@@ -84,4 +84,7 @@ beta), practice fights, settings, and the F1 report form. Since 0.2.0: character
 six-level ultimate ladder, your roster saved to your account, and tags on every file. Since
 0.3.0: the launcher and its updates, Growth (feed study books to level a character to 20),
 gold, the bag and its chests, mail with a welcome gift, up to five saved teams with team
-practice fights, saved fight logs, keyboard controls, and Discord status.
+practice fights, saved fight logs, keyboard controls, and Discord status. Since 0.4.0: story
+mode chapters 1 to 3 with eight new enemies, sound effects, new art for nine characters with
+pop-out cards, the first auras, effect icons in fights, and keyboard play in fights. New builds
+come every two weeks.
